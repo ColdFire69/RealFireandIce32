@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RealFireandIce32
+- 👋 Hi, I’m @ColdFire69
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on TT Message!
-- 📫 How to reach me: https://titanicmessage.pythonanywhere.com/chat or scratch.mit.edu/Riel101
+- 📫 How to reach me: https://titanicmessage.pythonanywhere.com/chat or https://scratch.mit.edu/Riel101
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: TT Message will support Google logins soon!
 <!---
